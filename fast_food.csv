@@ -1,0 +1,31 @@
+Restaurant,Item,Category,Calories,Protein,Fat,Carbs,Sugar,Sodium
+McDonalds,Big Mac,Burger,550,25,30,45,9,1010
+McDonalds,McChicken,Burger,400,21,21,39,5,560
+McDonalds,French Fries,Fries,320,4,15,43,0,260
+McDonalds,Coke,Drink,210,0,0,58,58,20
+McDonalds,McFlurry,Dessert,510,10,16,80,64,170
+KFC,Zinger Burger,Burger,470,28,21,42,7,980
+KFC,Hot Wings,Chicken,390,27,25,10,0,1050
+KFC,French Fries,Fries,300,4,14,40,0,280
+KFC,Pepsi,Drink,220,0,0,60,60,25
+KFC,Chocolate Sundae,Dessert,330,6,10,52,40,120
+Subway,Veg Delight,Sandwich,230,8,3,44,6,310
+Subway,Chicken Teriyaki,Sandwich,370,25,4,58,15,760
+Subway,Tuna Sandwich,Sandwich,480,20,25,40,5,640
+Subway,Cookies,Dessert,220,2,10,30,18,180
+Subway,Coke,Drink,210,0,0,58,58,20
+Dominos,Margherita Pizza,Pizza,270,11,10,33,4,550
+Dominos,Farmhouse Pizza,Pizza,340,14,13,39,5,720
+Dominos,Garlic Bread,Side,220,5,9,28,2,430
+Dominos,Choco Lava,Dessert,360,5,17,47,29,250
+Dominos,Pepsi,Drink,220,0,0,60,60,25
+Pizza Hut,Veggie Pizza,Pizza,300,12,11,36,4,640
+Pizza Hut,Chicken Pizza,Pizza,390,18,16,38,4,820
+Pizza Hut,Garlic Bread,Side,250,6,11,30,2,470
+Pizza Hut,Brownie,Dessert,410,5,20,52,38,290
+Pizza Hut,7UP,Drink,200,0,0,54,54,15
+Burger King,Whopper,Burger,670,28,40,49,11,980
+Burger King,Chicken Fries,Chicken,430,20,28,24,1,870
+Burger King,French Fries,Fries,340,4,16,45,0,320
+Burger King,Coke,Drink,210,0,0,58,58,20
+Burger King,Ice Cream,Dessert,280,5,12,36,28,140
