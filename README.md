@@ -42,6 +42,19 @@ fast-food-nutrition-analytics/
 ├── FastFood_Analytics.ipynb
 ├── README.md
 └── requirements.txt
+## 📷 Sample Visualizations
+
+### Average Calories by Restaurant
+
+![Calories](images/calories_by_restaurant.png)
+
+### Protein vs Calories
+
+![Scatter](images/protein_vs_calories.png)
+
+### Food Category Distribution
+
+![Pie](images/food_categories.png)
 ```
 
 ---
